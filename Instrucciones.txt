@@ -1,0 +1,21 @@
+ADD 24 
+ADD 12 
+ADD 34 
+ADD 15 
+VIEW 
+PRINT lista1.txt listaC1.txt pila1.txt cola1.txt
+ADDcola 3
+ADDpila 1
+DELETE 12
+VIEW
+DELETElistaC 34
+ADDlista 10
+PRINT lista2.txt listaC2.txt pila2.txt cola2.txt
+ADDlista 5
+POPcola
+POPpila
+ADD 789
+DELETElista 789
+PRINT lista3.txt listaC3.txt pila3.txt cola3.txt
+VIEW
+EXIT
